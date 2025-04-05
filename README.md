@@ -46,7 +46,6 @@ This is a list of security tools I use and work with.
 - ![Terraform Logo](https://www.terraform.io/assets/images/brand/logo-mark-16-9-6e25468f.svg) [Terraform](https://www.terraform.io/)
 
 
-
 ### ☁️ Cloud & AWS Security Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![AWS Security](https://img.shields.io/badge/-AWS_Security-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
