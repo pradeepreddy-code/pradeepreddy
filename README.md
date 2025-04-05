@@ -8,17 +8,32 @@ This GitHub profile reflects my journey of continuous learning and hands-on expl
 
 ## 🔧 Skills & Tools
 
+### 💻 Languages & Platforms
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+### 🛠️ DevOps Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge)
+![Kube-Bench](https://img.shields.io/badge/-KubeBench-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Trivy](https://img.shields.io/badge/-Trivy-0F172A?logo=aqua&logoColor=white&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
 
----
+### 🛡️ Security Tools
+![Scapy](https://img.shields.io/badge/-Scapy-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Snort](https://img.shields.io/badge/-Snort-B22222?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge)
+![CIS Benchmarks](https://img.shields.io/badge/-CIS_Benchmarks-2E8B57?style=for-the-badge)
+
+### ☁️ Cloud & AWS Security Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![AWS Security](https://img.shields.io/badge/-AWS_Security-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
 
 ## 🧠 Currently Learning
 
