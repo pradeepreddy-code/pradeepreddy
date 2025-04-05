@@ -25,25 +25,14 @@ This GitHub profile reflects my journey of continuous learning and hands-on expl
 ![Trivy](https://img.shields.io/badge/-Trivy-0F172A?logo=aqua&logoColor=white&style=for-the-badge)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
 
-# Security Tools
+### 🛡️ Security Tools
+![Scapy](https://img.shields.io/badge/-Scapy-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Snort](https://img.shields.io/badge/-Snort-B22222?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge)
+![CIS Benchmarks](https://img.shields.io/badge/-CIS_Benchmarks-2E8B57?style=for-the-badge)
 
-This is a list of security tools I use and work with.
 
-## Tools
-
- ![Scapy Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scapy_logo.svg/320px-Scapy_logo.svg.png) [Scapy](https://scapy.readthedocs.io/en/latest/)
- ![Trivy Logo](https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo.svg) [Trivy](https://github.com/aquasecurity/trivy)
- ![SonarQube Logo](https://www.sonarqube.org/images/logo.png) [SonarQube](https://www.sonarqube.org/)
-![KubeBench Logo](https://raw.githubusercontent.com/aquasecurity/kube-bench/master/logo.png) [KubeBench](https://github.com/aquasecurity/kube-bench)
- ![CIS Benchmark Logo](https://www.cisecurity.org/wp-content/uploads/2020/07/CIS-Logo-Color.jpg) [CIS Benchmark](https://www.cisecurity.org/cis-benchmarks/)
- ![Snort Logo](https://www.snort.org/assets/images/snort-logo.svg) [Snort](https://www.snort.org/)
-![Splunk Logo](https://www.splunk.com/content/dam/splunk-common/images/splunk_logo_rgb_color.svg) [Splunk](https://www.splunk.com/)
-![Ansible Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Ansible_logo.svg) [Ansible](https://www.ansible.com/)
-![AWS Security Tools Logo](https://d1.awsstatic.com/logos/aws/aws-security/aws-security-services-identity-logos/aws-security-identity-logos.4fe88b1f57b43015a34ad3fa7b8765fe.png) [AWS Security Tools](https://aws.amazon.com/security/)
-![Burp Suite Logo](https://portswigger.net/images/brand/burp-suite-logo-2022.svg) [Burp Suite](https://portswigger.net/burp)
-![OWASP ZAP Logo](https://owasp.org/www-project-zap/images/owasp-zap-logo.svg) [OWASP ZAP](https://owasp.org/www-project-zap/)
-![Windows Sysinternals Logo](https://upload.wikimedia.org/wikipedia/commons/e/e0/Sysinternals_Logo.svg) [Windows Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/)
-![Terraform Logo](https://www.terraform.io/assets/images/brand/logo-mark-16-9-6e25468f.svg) [Terraform](https://www.terraform.io/)
+ 
 
 ### ☁️ Cloud & AWS Security Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
