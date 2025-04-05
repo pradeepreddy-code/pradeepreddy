@@ -27,10 +27,18 @@ This GitHub profile reflects my journey of continuous learning and hands-on expl
 
 ### 🛡️ Security Tools
 ![Scapy](https://img.shields.io/badge/-Scapy-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Trivy](https://img.shields.io/badge/-Trivy-4C9A2B?logo=aquasecurity&logoColor=white&style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge)
+![KubeBench](https://img.shields.io/badge/-KubeBench-3D8FD1?logo=kubernetes&logoColor=white&style=for-the-badge)
+![CIS Benchmark](https://img.shields.io/badge/-CIS_Benchmark-2E8B57?style=for-the-badge)
 ![Snort](https://img.shields.io/badge/-Snort-B22222?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge)
-![CIS Benchmarks](https://img.shields.io/badge/-CIS_Benchmarks-2E8B57?style=for-the-badge)
-
+![Ansible](https://img.shields.io/badge/-Ansible-4EAA25?logo=ansible&logoColor=white&style=for-the-badge)
+![AWS Security](https://img.shields.io/badge/-AWS_Security-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-6A0DAD?logo=burpsuite&logoColor=white&style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-FA5C5C?logo=owasp&logoColor=white&style=for-the-badge)
+![Windows Sysinternals](https://img.shields.io/badge/-Windows_Sysinternals-0087BD?logo=microsoft&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/-Terraform-7E5C4D?logo=terraform&logoColor=white&style=for-the-badge)
 
  
 
