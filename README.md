@@ -25,11 +25,26 @@ This GitHub profile reflects my journey of continuous learning and hands-on expl
 ![Trivy](https://img.shields.io/badge/-Trivy-0F172A?logo=aqua&logoColor=white&style=for-the-badge)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
 
-### 🛡️ Security Tools
-![Scapy](https://img.shields.io/badge/-Scapy-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Snort](https://img.shields.io/badge/-Snort-B22222?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge)
-![CIS Benchmarks](https://img.shields.io/badge/-CIS_Benchmarks-2E8B57?style=for-the-badge)
+# Security Tools
+
+This is a list of security tools I use and work with.
+
+## Tools
+
+- [Scapy](https://scapy.readthedocs.io/en/latest/)
+- [Trivy](https://github.com/aquasecurity/trivy)
+- [SonarQube](https://www.sonarqube.org/)
+- [KubeBench](https://github.com/aquasecurity/kube-bench)
+- [CIS Benchmark](https://www.cisecurity.org/cis-benchmarks/)
+- [Snort](https://www.snort.org/)
+- [Splunk](https://www.splunk.com/)
+- [Ansible](https://www.ansible.com/)
+- [AWS Security Tools](https://aws.amazon.com/security/)
+- [Burp Suite](https://portswigger.net/burp)
+- [OWASP ZAP](https://owasp.org/www-project-zap/)
+- [Windows Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/)
+- [Terraform](https://www.terraform.io/)
+
 
 ### ☁️ Cloud & AWS Security Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
