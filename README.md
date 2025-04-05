@@ -46,9 +46,11 @@ This GitHub profile reflects my journey of continuous learning and hands-on expl
 
 ## 📊 GitHub Stats
 
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeep-reddy-nadagouni&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-reddy-nadagouni&layout=compact&theme=tokyonight)
+![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepreddy-code&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepreddy-code&layout=compact&theme=tokyonight)
 
 ---
 
