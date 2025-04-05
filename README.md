@@ -34,7 +34,7 @@ This is a list of security tools I use and work with.
 - ![Scapy Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scapy_logo.svg/320px-Scapy_logo.svg.png) [Scapy](https://scapy.readthedocs.io/en/latest/)
 - ![Trivy Logo](https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo.svg) [Trivy](https://github.com/aquasecurity/trivy)
 - ![SonarQube Logo](https://www.sonarqube.org/images/logo.png) [SonarQube](https://www.sonarqube.org/)
-- ![KubeBench Logo](https://www.aquasecurity.github.io/kube-bench/logo.png) [KubeBench](https://github.com/aquasecurity/kube-bench)
+- ![KubeBench Logo](https://raw.githubusercontent.com/aquasecurity/kube-bench/master/logo.png) [KubeBench](https://github.com/aquasecurity/kube-bench)
 - ![CIS Benchmark Logo](https://www.cisecurity.org/wp-content/uploads/2020/07/CIS-Logo-Color.jpg) [CIS Benchmark](https://www.cisecurity.org/cis-benchmarks/)
 - ![Snort Logo](https://www.snort.org/assets/images/snort-logo.svg) [Snort](https://www.snort.org/)
 - ![Splunk Logo](https://www.splunk.com/content/dam/splunk-common/images/splunk_logo_rgb_color.svg) [Splunk](https://www.splunk.com/)
