@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity | DevSecOps | Cloud Security
 
-Hi, I'm **Pradeep Reddy Nadagouni**, a dedicated cybersecurity enthusiast with a strong interest in **DevSecOps, cloud security, and secure software development**. I’m passionate about building reliable and secure solutions, and I take pride in writing clean, maintainable code backed by thoughtful design and security best practices.
+Hi, I'm **Pradeep Reddy Nalagouni**, a dedicated cybersecurity enthusiast with a strong interest in **DevSecOps, cloud security, and secure software development**. I’m passionate about building reliable and secure solutions, and I take pride in writing clean, maintainable code backed by thoughtful design and security best practices.
 
 This GitHub profile reflects my journey of continuous learning and hands-on exploration. Whether it’s developing personal projects, diving into new technologies, or contributing to collaborative work, I strive to grow with every challenge and make a meaningful impact through technology.
 
