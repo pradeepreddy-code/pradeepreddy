@@ -52,14 +52,6 @@ This GitHub profile reflects my journey of continuous learning and practical SOC
 - Advanced network forensics and packet analysis
 - Cloud threat detection & AWS incident response
 
----
-
-## 📊 GitHub Stats
-
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepreddy-code&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepreddy-code&layout=compact&theme=tokyonight)
-
----
 
 ## 📌 Featured Projects
 
