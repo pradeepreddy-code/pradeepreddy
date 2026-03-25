@@ -45,7 +45,7 @@ This GitHub profile reflects my journey of continuous learning and practical SOC
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Thoroughing me self on 
 
 - MITRE ATT&CK mapping for detection engineering
 - SOC automation with SOAR tools
