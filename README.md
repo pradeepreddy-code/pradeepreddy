@@ -1,8 +1,8 @@
 # 🛡️ Cybersecurity | Devsecops | Cloud Security | 
 
-Hi, I'm **Pradeep Reddy Nalagouni**, a dedicated cybersecurity professional with 2+ years of hands-on experience in **SOC operations, threat detection, and incident response**. I’m passionate about securing systems end-to-end, building reliable detection use cases, and writing clear, actionable playbooks backed by real-world lab projects and security best practices.
+Hi, I'm **Pradeep Reddy Nalagouni**, a dedicated cybersecurity professional with 6+ years of hands-on experience in **Security operations, threat detection, and incident response**. I’m passionate about securing systems end-to-end, building reliable detection use cases, and writing clear, actionable playbooks backed by real-world lab projects and security best practices.
 
-This GitHub profile reflects my journey of continuous learning and practical SOC exploration. Whether it’s developing SIEM dashboards, simulating adversarial behavior, or building secure cloud environments, I strive to grow with every challenge and contribute meaningfully to the security community.
+This GitHub profile reflects my journey of continuous learning and practical Cybersecurity exploration. Whether it’s developing SIEM dashboards, simulating adversarial behavior, or building secure cloud environments, I strive to grow with every challenge and contribute meaningfully to the security community.
 
 ---
 
