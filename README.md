@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity | SOC Analyst | Cloud Security
+# 🛡️ Cybersecurity | Devsecops | Cloud Security | 
 
 Hi, I'm **Pradeep Reddy Nalagouni**, a dedicated cybersecurity professional with 2+ years of hands-on experience in **SOC operations, threat detection, and incident response**. I’m passionate about securing systems end-to-end, building reliable detection use cases, and writing clear, actionable playbooks backed by real-world lab projects and security best practices.
 
